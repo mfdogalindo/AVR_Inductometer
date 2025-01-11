@@ -1,4 +1,6 @@
-.hex
-.asm
-.elf
+*.hex
+*.asm
+*.elf
 .DS_Store
+exe.elf
+exe.hex
